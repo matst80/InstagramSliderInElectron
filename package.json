@@ -1,0 +1,20 @@
+{
+  "name": "ElectronParty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.2",
+    "electron-packager": "^11.0.0"
+  },
+  "dependencies": {
+    "electron-oauth2": "^3.0.0"
+  }
+}
